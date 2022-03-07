@@ -1,0 +1,91 @@
+body {
+  background: #004a55;
+  color: #f6f6f6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: justify;
+}
+h1 {
+  color: #f5a831;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+  margin: 25 px;
+}
+
+h2 {
+  border: 3px solid #f5a831;
+  border-radius: 15px;
+  color: #f6f6f6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  margin: 15px 20px 40px;
+  padding: 18px;
+  text-align: center;
+}
+
+img {
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  display: block;
+  margin: 0 auto;
+  max-width: 75%;
+}
+
+p {
+  font-size: 18px;
+  margin: 20px auto;
+  line-height: 2.5;
+  text-align: justify;
+}
+
+button {
+  background: #f87d09;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  color: white;
+  display: block;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  margin: 35px auto;
+  padding: 15px 25px;
+  transition: all 200ms ease-in-out;
+  opacity: 2;
+}
+
+button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+  background-color: #a7cdcc;
+  color: black;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 30px 60px;
+}
+
+.video {
+  color: #f6af3f;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.video:hover {
+  color: black;
+}
+
+.info {
+  text-align: center;
+  color: orange;
+}
+.coder {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+.coder:hover {
+  text-decoration: underline;
+}
