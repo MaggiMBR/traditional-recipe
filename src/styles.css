@@ -77,15 +77,16 @@ button:hover {
   color: black;
 }
 
-.info {
+.link-info {
   text-align: center;
   color: orange;
-}
-.coder {
-  text-align: center;
-  color: white;
   text-decoration: none;
 }
-.coder:hover {
-  text-decoration: underline;
+.coder-info {
+  text-align: center;
+  color: white;
+}
+.link-info:hover {
+  color: black;
+
 }
