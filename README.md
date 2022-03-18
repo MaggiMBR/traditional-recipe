@@ -1,5 +1,8 @@
 # Building a web site (Traditional recipe page)
 
+<img src="i"https://s3.amazonaws.com/shecodesio-production/uploads/files/000/026/413/original/fanesca.jpeg?1643972895"
+        alt="Fanesca"" alt="Edit Building Page (screenshot)" height="700">
+
 ## Geneal information
 
 -This project is built in VS code.
