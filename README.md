@@ -1,6 +1,6 @@
 # Building a web site (Traditional recipe page)
 
-<img src="i"https://s3.amazonaws.com/shecodesio-production/uploads/files/000/026/413/original/fanesca.jpeg?1643972895"
+<img src= "https://s3.amazonaws.com/shecodesio-production/uploads/files/000/026/413/original/fanesca.jpeg?1643972895"
         alt="Fanesca"" alt="Edit Building Page (screenshot)" height="700">
         
  ![alt text](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/026/413/original/fanesca.jpeg?1643972895"
