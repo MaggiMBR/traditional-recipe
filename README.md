@@ -1,11 +1,8 @@
 # Building a web site (Traditional recipe page)
         
- ![alt text](https://s3.amazonaws.com/shecodesio-production/uploads/files/000/026/413/original/fanesca.jpeg?1643972895"
-        alt="Fanesca"" alt="Edit Building Page (screenshot)" height="700")
-        
- <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+<p align="center">
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/026/413/original/fanesca.jpeg?1643972895"
+        alt="Fanesca"" alt="Edit Building Page (screenshot)" height="700"
 </p>
 
 ## Geneal information
