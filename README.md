@@ -16,3 +16,7 @@
   --Ask username
   --Ask e-mail
   --Message "Gracias (username)! We'll send you more delicious recipes 🥣 ".
+  
+      - https://building-management-system.stackblitz.io/
+    - https://building-management-system.stackblitz.io/building/123/edit
+
