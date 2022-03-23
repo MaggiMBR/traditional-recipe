@@ -23,6 +23,7 @@
 1. Brief descriprion about the recipe ("Fanesca").
 2. Link to a the video of the recipe, find at: https://www.youtube.com/watch?v=_gDCXqGcXAA
 3. Button option: 
+  <br/>
   -Ask username.  
   -Ask e-mail.    
   -Message "Gracias (username)! We'll send you more delicious recipes 🥣 ".
