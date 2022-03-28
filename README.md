@@ -5,7 +5,7 @@
         alt="Fanesca" alt="Edit Building Page (screenshot)" height="300"
 </p>
         
-Here you can find the link of the site: https://hopeful-pare-aaa0bd.netlify.app
+Here you can find the link of the site: https://recipe-maggib.netlify.app
 
 ## Geneal information
 
